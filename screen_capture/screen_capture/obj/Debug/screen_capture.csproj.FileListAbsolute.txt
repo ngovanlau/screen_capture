@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\screen_capture\screen_capture\obj\Debug\screen_capture.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\screen_capture\screen_capture\obj\Debug\screen_capture.FrmCapture.resources
+C:\Users\Administrator\Desktop\screen_capture\screen_capture\obj\Debug\screen_capture.FrmMain.resources
+C:\Users\Administrator\Desktop\screen_capture\screen_capture\obj\Debug\screen_capture.Properties.Resources.resources
+C:\Users\Administrator\Desktop\screen_capture\screen_capture\obj\Debug\screen_capture.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\screen_capture\screen_capture\obj\Debug\screen_capture.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\screen_capture\screen_capture\obj\Debug\screen_capture.FrmScreenShot.resources
+C:\Users\Administrator\Desktop\screen_capture\screen_capture\bin\Debug\Screen Capture.exe.config
+C:\Users\Administrator\Desktop\screen_capture\screen_capture\bin\Debug\Screen Capture.exe
+C:\Users\Administrator\Desktop\screen_capture\screen_capture\bin\Debug\Screen Capture.pdb
+C:\Users\Administrator\Desktop\screen_capture\screen_capture\obj\Debug\Screen Capture.exe
+C:\Users\Administrator\Desktop\screen_capture\screen_capture\obj\Debug\Screen Capture.pdb
+D:\screen_capture\screen_capture\bin\Debug\Screen Capture.exe.config
+D:\screen_capture\screen_capture\bin\Debug\Screen Capture.exe
+D:\screen_capture\screen_capture\bin\Debug\Screen Capture.pdb
+D:\screen_capture\screen_capture\obj\Debug\screen_capture.csproj.AssemblyReference.cache
+D:\screen_capture\screen_capture\obj\Debug\screen_capture.FrmCapture.resources
+D:\screen_capture\screen_capture\obj\Debug\screen_capture.FrmScreenShot.resources
+D:\screen_capture\screen_capture\obj\Debug\screen_capture.FrmMain.resources
+D:\screen_capture\screen_capture\obj\Debug\screen_capture.Properties.Resources.resources
+D:\screen_capture\screen_capture\obj\Debug\screen_capture.csproj.GenerateResource.cache
+D:\screen_capture\screen_capture\obj\Debug\screen_capture.csproj.CoreCompileInputs.cache
+D:\screen_capture\screen_capture\obj\Debug\Screen Capture.exe
+D:\screen_capture\screen_capture\obj\Debug\Screen Capture.pdb
